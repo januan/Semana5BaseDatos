@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Javi\GitHub\Puppies\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Javi\GitHub\Puppies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_12b1bb731ba03cef59c679121e46fc28fa4feb55\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Usuario\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Javi\GitHub\Puppies\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_71c1c7c54be67c6e606886413f107fbae7b0399c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Usuario\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-mail\1.5.5\53a2f927b235acb565dbe9314ececfb7e6d43020\android-mail-1.5.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="53a2f927b235acb565dbe9314ececfb7e6d43020">
+        <dex dex="D:\Javi\GitHub\Puppies\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-mail-1.5.5_3c238ead4ec2c7f8f9943f0ea3675e04baacbbfd\classes.dex" />
+    </item>
+    <item
+        jar="D:\Javi\GitHub\Puppies\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Javi\GitHub\Puppies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_ed8e51bc1b9074aac4f23a6b7c3590c96d40a138\classes.dex" />
+    </item>
+    <item
+        jar="D:\Javi\GitHub\Puppies\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bf311d0f09e9f8befcb4b3d966b13fad9fa214cc">
+        <dex dex="D:\Javi\GitHub\Puppies\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_da59e48ce9e4c4cbd019c391928570bdcbb22ffd\classes.dex" />
+    </item>
+    <item
+        jar="D:\Javi\GitHub\Puppies\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="D:\Javi\GitHub\Puppies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_65481f2ff1807bbb347635418a873a3c0ba1940a\classes.dex" />
+    </item>
+    <item
+        jar="D:\Javi\GitHub\Puppies\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\Javi\GitHub\Puppies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_d0aab86f5ff3db6b792868c519cabef1ce2a0f86\classes.dex" />
+    </item>
+    <item
+        jar="D:\Javi\GitHub\Puppies\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffdb601dc0fcd046c40706d2f2de354c19c382af">
+        <dex dex="D:\Javi\GitHub\Puppies\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_50abe7181e48fb506e832c9234f20a99a1d6c268\classes.dex" />
+    </item>
+    <item
+        jar="D:\Javi\GitHub\Puppies\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Javi\GitHub\Puppies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_5a501f738a0ee122e557951d45ab7a198f38c09b\classes.dex" />
+    </item>
+    <item
+        jar="D:\Javi\GitHub\Puppies\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="D:\Javi\GitHub\Puppies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikhaellopez-circularimageview-3.0.2_b8a40178958bfe03cf39c40bf1b972be8a522da6\classes.dex" />
+    </item>
+    <item
+        jar="D:\Javi\GitHub\Puppies\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Javi\GitHub\Puppies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_896775f25a5d9ea803c4e9eae708fcbfb03ddc5c\classes.dex" />
+    </item>
+    <item
+        jar="D:\Javi\GitHub\Puppies\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Javi\GitHub\Puppies\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_68b1927c9936f877397c299bd6c843553d86df60\classes.dex" />
+    </item>
+    <item
+        jar="D:\Javi\GitHub\Puppies\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\Javi\GitHub\Puppies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_3120f11571d0232ec776b9b527f72b910cbd65b0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Usuario\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-activation\1.5.5\5442d5e05808145434b750c9f8a0c3f537383c5a\android-activation-1.5.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5442d5e05808145434b750c9f8a0c3f537383c5a">
+        <dex dex="D:\Javi\GitHub\Puppies\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-activation-1.5.5_6028563ff2b28f931e1858f09252c97d0142d42d\classes.dex" />
+    </item>
+
+</items>
